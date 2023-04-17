@@ -1,5 +1,4 @@
-# Insurance Dataset 
-[![T1TeenFit](https://cdn.worldvectorlogo.com/logos/python-3.svg)]
+# Insurance Dataset [!(https://cdn.worldvectorlogo.com/logos/python-3.svg)]
 
 Exploratory data analysis to extract meaningful insights from a medical insurance dataset comprising of personal data from a sample of US residents.
 
