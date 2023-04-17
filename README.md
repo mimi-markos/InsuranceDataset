@@ -1,5 +1,4 @@
-# Insurance Dataset ![Python](https://cdn.worldvectorlogo.com/logos/python-3.svg)
-<img src="https://cdn.worldvectorlogo.com/logos/python-3.svg" alt="Alt Text" width="200" height="150">
+# Insurance Dataset <img src="https://cdn.worldvectorlogo.com/logos/python-3.svg" alt="Alt Text" width="200" height="150">
 
 Exploratory data analysis to extract meaningful insights from a medical insurance dataset comprising of personal data from a sample of US residents.
 
